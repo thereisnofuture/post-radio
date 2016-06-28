@@ -55,14 +55,14 @@ display: inline;
 		   
 }
 /* кнопки по отдельности */
- .btn-1 {background: url("250.png") no-repeat;
+ .btn-1 {background: url("source/image/250.png") no-repeat;
  background-size: 80px 80px; 
  left: 25px;
 }
- .btn-2{background: url("250i.png") no-repeat;
+ .btn-2{background: url("source/image/250i.png") no-repeat;
  background-size: 80px 80px;
  left: 145px;}
- .btn-3{background: url("250.png") no-repeat;
+ .btn-3{background: url("source/image/250.png") no-repeat;
  background-size: 80px 80px;
  left: 270px;
 }
