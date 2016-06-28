@@ -41,9 +41,6 @@ z-index: 1; /*позиция слоя (поверх видео)*/
                   
  }
 object {align-self: center;
-	position: absolute;
-	  z-index: 5;
-	  top: 40%;
 	  opacity: 0.8;
 }
 input[type=button]{position: absolute; 
