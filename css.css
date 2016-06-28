@@ -40,7 +40,7 @@ z-index: 1; /*позиция слоя (поверх видео)*/
                   text-indent: 0.5em;
                   
  }
-
+object {align-self: center;}
 input[type=button]{position: absolute; 
 width: 80px;
 height: 80px;
