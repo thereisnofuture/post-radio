@@ -141,6 +141,9 @@ flex-direction: column;
 	   /* подпись в футере */	   
 footer span {
 box-sizing: border-box; padding-left: 40px;}
+
+ footer a {display: inline-block; text-decoration: none; color: #fff; margin-left: 10px;}
+ footer a:hover {color: #ccc}
  
  /*стили для видео*/
 .is_overlay{ display: block; width: 100%; height: 90%; }
