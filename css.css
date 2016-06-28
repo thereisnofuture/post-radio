@@ -1,0 +1,161 @@
+﻿
+ body {
+ font: 13pt Arial, Helvetica, sans-serif; /* насчет стиля текста ещё не уверен */
+   background: black; 
+    text-shadow: 1px 1px 1px ;
+     width: 100%;
+      height: auto;
+ }
+ h2 {
+ font-size: 18px; /* ну здесь у нас размер текста проигрывателя */
+  color: #080808; /* Цвет заголовка */
+   margin-top: 0; /* Отступ сверху */
+ }
+
+ .container {
+ width: 100%; /* Ширина слоя */
+  margin: 0 auto; /* Выравнивнить весь блок по центру */
+   /*background: #000000;  Цвет фона левой колонки */
+      height: auto;
+ }
+header {position: absolute;
+ 
+z-index: 1; /*позиция слоя (поверх видео)*/
+  font-size: 25px; /* Размер текста в шапке */
+   text-align: left; /* Выравнивание текст шапки по центру */
+    padding: 0px; /* Отступы внутри блока шапки */
+     padding-bottom: 10px;
+      background-image: url(https://pp.vk.me/c630919/v630919736/3aa59/wZWAOU4uyp0.jpg);
+      color: #fff; /* Цвет текста */
+        /* margin-right: 35px; */
+         height: 120px;
+         /*  border-radius: 10px; */
+           width: 100%;
+            background-repeat: no-repeat;
+             background-position: 99% 100%; 
+              background-size: auto 145px; 
+	       background-color: #000;
+                margin-top: -35px;
+	         left: 0;
+                  text-indent: 0.5em;
+                  
+ }
+
+input[type=button]{position: absolute; 
+width: 80px;
+height: 80px;
+display: inline;
+         border: none;
+          top: 80px;
+		   z-index: 10;
+		   margin-right: 25px;
+		   transition: 0.8s;
+		   opacity: 0.7;
+		   transform: scale(1)
+		   
+}
+/* кнопки по отдельности */
+ .btn-1 {background: url("250.png") no-repeat;
+ background-size: 80px 80px; 
+ left: 25px;
+}
+ .btn-2{background: url("250и.png") no-repeat;
+ background-size: 80px 80px;
+ left: 145px;}
+ .btn-3{background: url("250.png") no-repeat;
+ background-size: 80px 80px;
+ left: 270px;
+}
+@keyframes rotate {
+    
+0% {
+        transform: rotate(0deg);
+}
+    
+100% {
+        transform: rotate(360deg);
+}
+}
+
+
+.btn-1 {
+    animation-name: rotate;
+    
+             animation-duration: 3s;
+}.btn-2 {
+    animation-name: rotate;
+    
+             animation-duration: 4s;
+}
+.btn-3 {
+    animation-name: rotate;
+    
+             animation-duration: 5s;
+}
+
+/* трансформация при наведении (уменьшение+лёгкая прозрачность) */
+input[type=button]:hover {
+ opacity: 1;
+transform: scale(0.8) 
+}
+.flex-container {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 100%;
+height: 100%;
+}
+		   
+.player{/* здесь мутим с проигрывателем */
+   position: absolute;
+   display: flex;
+	align-content: center;
+	justify-content: center;
+/* 	flex-wrap: wrap; */
+flex-direction: column; 
+	  z-index: 5; /*позиция слоя (поверх видео)*/
+		left: 35%;
+		top: 40%;
+         background: #333;
+		background-color: rgba(50, 50, 50, 0.5);
+           border-radius: 10px;
+            height: 140px;
+             width: 30%;
+			 text-align: center;
+   }
+   
+ /* блок с треком */
+ audio {
+ width: 80%;
+ margin: 0 auto;}
+
+ footer {position: absolute;
+ background:  #000000; /* Цвет фона нижнего блока-подвала */
+  color: #fff; /* Цвет текста подвала */
+   padding: 40px 0px; /* Отступы внутри блока */
+    clear: right; /* Отменяем действие float */
+     width: 100%;
+      bottom: 0px;
+       left: 0;}
+
+	   /* подпись в футере */	   
+footer span {
+box-sizing: border-box; padding-left: 40px;}
+ 
+ /*стили для видео*/
+.is_overlay{ display: block; width: 100%; height: 90%; }
+#horror {
+	position: fixed;
+	top: -20px; right: 0; bottom: 0; left: 0%;
+	
+}
+
+#horror > video {
+	position: absolute;
+	top: -20;
+	left: 0;
+	width: 100%;
+	height: auto;
+	z-index: -1
+}
+
