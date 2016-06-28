@@ -8,9 +8,9 @@
  <body>
  <header><h1>post-rock radio</h1>
 
-  <input type=button class="btn-1" name=btn-1>
-<input type=button class="btn-2" name=btn-2>
-<input type=button class="btn-3" name=btn-3>
+ <a href="https://vk.com/thereisnofuture"> <input type=button class="btn-1" name=btn-1> </a>
+ <a href="https://sheistheorigin.org"> <input type=button class="btn-2" name=btn-2> </a>
+ <a href=#><input type=button class="btn-3" name=btn-3></a>
 
 </header>
 
@@ -29,5 +29,6 @@
 			</audio>
 	</div>
 </div>
-<footer><span>&copy; ну а здесь будет наша подпись</span></footer>
+<footer><span>&copy; Контакты:  <a href="https://vk.com/yatebianezhayu">https://vk.com/yatebianezhayu<br></a>
+<a href="https://vk.com/freddy_n">https://vk.com/freddy_n</a></span></footer>
 </body>
