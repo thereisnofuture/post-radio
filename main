@@ -23,14 +23,10 @@
 </div>
 <div class=flex-container>
 <div class="player">
-	<object id="player" type="application/x-shockwave-flash" data="audio/uppod-0.7.2.js" width="200px" height="auto">
-   <param name="bgcolor" value="#ffffff" />
-   <param name="allowFullScreen" value="true" />
-   <param name="allowScriptAccess" value="always" />
-   <param name="wmode" value="window" />
-   <param name="movie" value="audio/uppod-0.7.2.js" />
-<!--    <param name="flashvars" value="переменные_плеера" /> -->
-</object> 
+<h2>myuu - Bad Encounter</h2>
+			<audio preload controls>
+				<source src="audio/myuu - Bad Encounter.mp3" type="audio/mpeg">
+			</audio>
 	</div>
 </div>
 <footer><span>&copy; ну а здесь будет наша подпись</span></footer>
