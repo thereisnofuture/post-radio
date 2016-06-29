@@ -38,6 +38,7 @@ z-index: 1; /*позиция слоя (поверх видео)*/
                 margin-top: -35px;
 	         left: 0;
                   text-indent: 0.5em;
+                  padding-right: 10px;
                   
  }
 header a {position: absolute; 
@@ -150,7 +151,9 @@ flex-direction: column;
     clear: right; /* Отменяем действие float */
      width: 100%;
       bottom: 0px;
-       left: 0;}
+       left: 0;
+ 	padding-right: 10px;
+ }
 
 	   /* подпись в футере */	   
 footer span {
