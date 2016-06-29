@@ -130,10 +130,8 @@ flex-direction: column;
 	  z-index: 5; /*позиция слоя (поверх видео)*/
 		left: 45%;
 		top: 40%;
-        background: #333;
-		background-color: rgba(50, 50, 50, 0.5); 
-           border-radius: 10px;
-			 text-align: center;
+       
+    
    }
    
  /* блок с треком */
