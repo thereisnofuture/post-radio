@@ -40,8 +40,7 @@ z-index: 1; /*позиция слоя (поверх видео)*/
                   text-indent: 0.5em;
                   
  }
-
-input[type=button]{position: absolute; 
+header a {position: absolute; 
 width: 80px;
 height: 80px;
 display: inline;
@@ -49,52 +48,67 @@ display: inline;
           top: 80px;
 		   z-index: 10;
 		   margin-right: 25px;
+		   /* transition: 0.8s;
+		   opacity: 0.7;
+		   transform: scale(1); */
+		   transform-origin:  50% 50%;}
+img{/* position: absolute;  */
+width: 80px;
+height: 80px;
+/* display: inline-block;
+         border: none;
+          top: 80px;
+		   z-index: 10;
+		   margin-right: 25px;*/
 		   transition: 0.8s;
 		   opacity: 0.7;
-		   transform: scale(1)
+		   transform: scale(1);
+		   transform-origin:  50% 50%; 
 		   
 }
 /* кнопки по отдельности */
- .btn-1 {background: url("source/image/250.png") no-repeat;
- background-size: 80px 80px; 
+ .btn-1 {/* background: url("source/image/250.png") no-repeat;
+ background-size: 80px 80px;  */
  left: 25px;
 }
- .btn-2{background: url("source/image/250i.png") no-repeat;
- background-size: 80px 80px;
+ .btn-2{/* background: url("source/image/250i.png") no-repeat;
+ background-size: 80px 80px; */
  left: 145px;}
- .btn-3{background: url("source/image/250.png") no-repeat;
- background-size: 80px 80px;
+ .btn-3{/* background: url("source/image/250.png") no-repeat;
+ background-size: 80px 80px; */
  left: 270px;
 }
 @keyframes rotate {
     
 0% {
         transform: rotate(0deg);
+		transform-origin:  50% 50%;
 }
     
 100% {
         transform: rotate(360deg);
+		transform-origin:  50% 50%;
 }
 }
 
 
-.btn-1 {
+.btn-1 img{
     animation-name: rotate;
     
              animation-duration: 3s;
-}.btn-2 {
+}.btn-2 img{
     animation-name: rotate;
     
              animation-duration: 4s;
 }
-.btn-3 {
+.btn-3 img{
     animation-name: rotate;
     
              animation-duration: 5s;
 }
-
+ 
 /* трансформация при наведении (уменьшение+лёгкая прозрачность) */
-input[type=button]:hover {
+a:hover img{
  opacity: 1;
 transform: scale(0.8) 
 }
