@@ -1,0 +1,3 @@
+{"playlist":[
+{"comment":"Pg. Lost - Vultures","file":"http://vkontakte.ru/audio.php?id=0|audio_id=456239042"},
+{"comment":"Maybeshewill - Takotsubo","file":"http://vkontakte.ru/audio.php?id=0|audio_id=325376112"}]}
