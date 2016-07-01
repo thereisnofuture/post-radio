@@ -147,7 +147,7 @@ flex-direction: column;
  footer {position: absolute;
  background:  #000000; /* Цвет фона нижнего блока-подвала */
   color: #fff; /* Цвет текста подвала */
-   padding: 20px 0px; /* Отступы внутри блока */
+   padding: 10px 0px; /* Отступы внутри блока */
     clear: right; /* Отменяем действие float */
      width: 100%;
       bottom: 0px;
