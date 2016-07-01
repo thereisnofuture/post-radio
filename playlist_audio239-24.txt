@@ -6,4 +6,4 @@
 {"comment":"Verticals – So Long ","file":"https://thereisnofuture.github.io/source/player/audio/Verticals - 05. So Long (Grace Of Existence, 2015).mp3"},
 {"comment":"Fixed﻿ – – Please","file":"https://thereisnofuture.github.io/source/player/audio/Fixed - Please.mp3"},
 {"comment":"белые флаги зажигайте медленно – 15 missed calls","file":"https://thereisnofuture.github.io/source/player/audio/белые флаги зажигайте медленно - 15 missed calls.mp3extra=2GLfygKJHAWmg2R6lpUHdu8EF9CdqYu9ZnpbkvgY8zQIug-VFCbzr9TWofSRK7pNmeUMY65LH2QtWrpyeiJ-8UplDwHUzXHFskRVGX6orXCR4OD5FN7E6LptRPJaKJ_4ZHsjs1z-UKx_aSO"},
-{"comment":"myuu - Bad Encounter","file":"http://thereisnofuture.github.io/source/player/audio/myuu - Bad Encounter.mp3"}]}
+{"comment":"myuu - Bad Encounter","file":"https://thereisnofuture.github.io/source/player/audio/myuu - Bad Encounter.mp3"}]}
