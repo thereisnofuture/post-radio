@@ -3,7 +3,6 @@
 {"comment":"And So I Watch You From Afar – The Voiceless","file":"https://thereisnofuture.github.io/source/player/audio/And So I Watch You From Afar - The Voiceless.mp3"},
 {"comment":"Pg. Lost - Vultures","file":"https://thereisnofuture.github.io/source/player/audio/Pg. Lost - Vultures.mp3"},
 {"comment":"downy – mugara","file":"https://thereisnofuture.github.io/source/player/audio/downy - mugara.mp3"},
-{"comment":"Magyar Posse – European Lover/Random Avenger","file":"https://psv4.vk.me/c422222/u161284255/audios/bda0e08a573d.mp3?extra=cX_oATxdnYF9fhmtDAqH12PXGzkOVND2QC38fU0i5nuSajp-9W2SIA8o8JNm21ewWyrP55yIAHTnvcIisOcThIvxDMb7PLhH8TwE4q309R-e0QQBKrefwYEAPwcZL-2hQb-1SSFVTSPlTfQf?/Magyar Posse - European Lover Random Aven"},
 {"comment":"Verticals – So Long ","file":"https://thereisnofuture.github.io/source/player/audio/Verticals - 05. So Long (Grace Of Existence, 2015).mp3"},
 {"comment":"Fixed﻿ – – Please","file":"https://thereisnofuture.github.io/source/player/audio/Fixed - Please.mp3"},
 {"comment":"белые флаги зажигайте медленно – 15 missed calls","file":"https://thereisnofuture.github.io/source/player/audio/белые флаги зажигайте медленно - 15 missed calls.mp3extra=2GLfygKJHAWmg2R6lpUHdu8EF9CdqYu9ZnpbkvgY8zQIug-VFCbzr9TWofSRK7pNmeUMY65LH2QtWrpyeiJ-8UplDwHUzXHFskRVGX6orXCR4OD5FN7E6LptRPJaKJ_4ZHsjs1z-UKx_aSO"},
