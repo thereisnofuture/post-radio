@@ -157,7 +157,7 @@ flex-direction: column;
 
 	   /* подпись в футере */	   
 footer span {
-box-sizing: border-box; padding-left: 40px;  text-shadow: none; font-size: 0.8em; line-height: 1.6em; font-weight: bold;}
+box-sizing: border-box; padding-left: 40px; width: 40%; text-shadow: none; font-size: 0.8em; line-height: 1.6em; font-weight: bold;}
 
  footer a {display: block; text-decoration: none; font-weight: normal; color: #ccc; padding-left: 160px;}
  footer a:hover {color: #fff;  font-weight: normal;}
