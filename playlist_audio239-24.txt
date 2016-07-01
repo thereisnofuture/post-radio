@@ -1,8 +1,7 @@
 {"playlist":[
 {"comment":"God Is An Astronaut – Parallel Highway","file":"https://thereisnofuture.github.io/source/player/audio/God Is An Astronaut - Parallel Highway.mp3"},
 {"comment":"And So I Watch You From Afar – The Voiceless","file":"https://thereisnofuture.github.io/source/player/audio/And So I Watch You From Afar - The Voiceless.mp3"},
-{"comment":"Pg. Lost - Vultures","file":"thereisnofuture.github.io/source/player/audio/Pg. Lost - Vultures.mp3"},
-{"comment":"Break My Fucking Sky – Cyclone","file":"https://psv4.vk.me/c536616/u34359738/audios/49b1666cc265.mp3?extra=Vd59Vj4z0v-rkOygTzLCUd7Yaut42oBwSh9PdZVQ2Nkbf1b2_5TNtQ62wWK5DNkMKFRD9_pVOF_3cCJvquKvr7uhDCgwBXO02kaeXkJ6Zf2JRVhDDQi4L5fQOC8NowBna58-kcuKwAH9_r9M?/Break My Fucking Sky - Cyclone.mp3"},
+{"comment":"Pg. Lost - Vultures","file":"https://thereisnofuture.github.io/source/player/audio/Pg. Lost - Vultures.mp3"},
 {"comment":"downy – mugara","file":"https://thereisnofuture.github.io/source/player/audio/downy - mugara.mp3"},
 {"comment":"Magyar Posse – European Lover/Random Avenger","file":"https://psv4.vk.me/c422222/u161284255/audios/bda0e08a573d.mp3?extra=cX_oATxdnYF9fhmtDAqH12PXGzkOVND2QC38fU0i5nuSajp-9W2SIA8o8JNm21ewWyrP55yIAHTnvcIisOcThIvxDMb7PLhH8TwE4q309R-e0QQBKrefwYEAPwcZL-2hQb-1SSFVTSPlTfQf?/Magyar Posse - European Lover Random Aven"},
 {"comment":"Verticals – So Long ","file":"https://thereisnofuture.github.io/source/player/audio/Verticals - 05. So Long (Grace Of Existence, 2015).mp3"},
