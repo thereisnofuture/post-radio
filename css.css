@@ -159,7 +159,7 @@ flex-direction: column;
 footer span {
 box-sizing: border-box; padding-left: 40px;  text-shadow: none; font-size: 0.8em;}
 
- footer a {display: inline-block; text-decoration: none; color: #fff; margin-left: 10px;}
+ footer a {display: block; text-decoration: none; color: #fff; margin-left: 10px;}
  footer a:hover {color: #ccc}
  
  /*стили для видео*/
