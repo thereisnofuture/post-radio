@@ -122,10 +122,7 @@ height: 100%;
 }
 		   
 .player{/* здесь мутим с проигрывателем */
-   position: absolute;
-   display: flex;
-	align-content: center;
-	justify-content: center;
+
 /* 	flex-wrap: wrap; */
 flex-direction: column; 
 	  z-index: 5; /*позиция слоя (поверх видео)*/
