@@ -133,16 +133,15 @@ flex-direction: column;
 		top: 40%;
         /*background: #333;
 		background-color: rgba(50, 50, 50, 0.5);*/
-           border-radius: 10px;
             height: 140px;
              width: 30%;
 			 text-align: center;
    }
    
- /* блок с треком */
+ /* блок с треком 
  audio {
  width: 80%;
- margin: 0 auto;}
+ margin: 0 auto;}*/
 
  footer {position: absolute;
  background:  #000000; /* Цвет фона нижнего блока-подвала */
