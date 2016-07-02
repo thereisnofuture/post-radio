@@ -122,6 +122,7 @@ height: 100%;
 }
 		   
 .player{/* здесь мутим с проигрывателем */
+  position: absolute;
 
 /* 	flex-wrap: wrap; */
 flex-direction: column; 
