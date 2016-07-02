@@ -135,6 +135,7 @@ flex-direction: column;
 		background-color: rgba(50, 50, 50, 0.5);*/
             height: 140px;
              width: 30%;
+             border-radius: 20px;
 			 text-align: center;
    }
    
