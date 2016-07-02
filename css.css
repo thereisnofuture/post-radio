@@ -123,14 +123,16 @@ height: 100%;
 		   
 .player{/* здесь мутим с проигрывателем */
   position: absolute;
+     display: flex;
+opacity: 0.9;
 
 /* 	flex-wrap: wrap; */
 flex-direction: column; 
 	  z-index: 5; /*позиция слоя (поверх видео)*/
 		left: 35%;
 		top: 40%;
-         background: #333;
-		background-color: rgba(50, 50, 50, 0.5);
+        /*background: #333;
+		background-color: rgba(50, 50, 50, 0.5);*/
            border-radius: 10px;
             height: 140px;
              width: 30%;
