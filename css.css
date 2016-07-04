@@ -131,7 +131,7 @@ flex-direction: column;
 justify-content: center;
 align-flex: center;
 z-index: 5; /*позиция слоя (поверх видео)*/
-left: 35%;
+left: 30%;
 	top: 40%;
        background: none !important;
        border: none !important;
