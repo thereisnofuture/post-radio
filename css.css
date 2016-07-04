@@ -134,6 +134,7 @@ z-index: 5; /*позиция слоя (поверх видео)*/
 left: 35%;
 	top: 40%;
        background: none !important;
+       border: none !important;
             height: 140px;
              width: 100%;
              border-radius: 25px;
