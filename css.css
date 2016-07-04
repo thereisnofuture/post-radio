@@ -129,7 +129,7 @@ opacity: 0.6;
 /* 	flex-wrap: wrap; */
 flex-direction: column; 
 	  z-index: 5; /*позиция слоя (поверх видео)*/
-		left: 35%;
+		/*left: 35%;*/
 		top: 40%;
         /*background: #333;
 		background-color: rgba(50, 50, 50, 0.5);*/
