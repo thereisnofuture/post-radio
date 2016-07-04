@@ -124,7 +124,7 @@ height: 100%;
 .player{/* здесь мутим с проигрывателем */
   position: absolute;
      display: flex;
-opacity: 0.9;
+opacity: 0.6;
 
 /* 	flex-wrap: wrap; */
 flex-direction: column; 
