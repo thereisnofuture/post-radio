@@ -25,15 +25,15 @@ z-index: 1; /*позиция слоя (поверх видео)*/
    text-align: left; /* Выравнивание текст шапки по центру */
     padding: 0px; /* Отступы внутри блока шапки */
      padding-bottom: 10px;
-      background-image: url(https://pp.vk.me/c630919/v630919736/3aa59/wZWAOU4uyp0.jpg);
+      /*background-image: url(https://pp.vk.me/c630919/v630919736/3aa59/wZWAOU4uyp0.jpg);*/
       color: #fff; /* Цвет текста */
         /* margin-right: 35px; */
          height: 120px;
          /*  border-radius: 10px; */
            width: 100%;
-            background-repeat: no-repeat;
+          /*  background-repeat: no-repeat;
              background-position: 99% 100%; 
-              background-size: auto 145px; 
+              background-size: auto 145px; */
 	       background-color: #000;
                 margin-top: -35px;
 	         left: 0;
